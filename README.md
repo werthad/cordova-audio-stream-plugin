@@ -26,7 +26,7 @@ The android part of this plugin is from https://github.com/apache/cordova-plugin
 
 #Installation
 Run 
-    cordova plugin add https://github.com/keosuofficial/cordova-audio-stream-plugin.git
+    cordova plugin add https://github.com/werthad/cordova-audio-stream-plugin.git
     
 #Use it
     my_stream = new Stream("http://your_live_radio_streeam", onSuccess, onError);
